@@ -1,6 +1,6 @@
 ## Hi, I'm Gustavo Henrique, Computer Science Bachelor from [The Univesidade Rural do Rio de Janeiro](https://portal.ufrrj.br/), currently working as a fullstack developer. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-gustavo-lima007?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/gustavo-lima007/)
+[![Linkedin Badge](https://img.shields.io/badge/-gustavo-lima007?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gustavo-lima007/)](https://www.linkedin.com/in/gustavo-lima007/)
 [![Instagram Badge](https://img.shields.io/badge/-gustavolima1377-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gustavolima1377)
 [![Gmail Badge](https://img.shields.io/badge/-gustavohsl1717@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohsl1717@gmail.com)](mailto:gustavohsl1717@gmail.com)
 
@@ -41,6 +41,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guhenrique007&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guhenrique007&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guhenrique007)
