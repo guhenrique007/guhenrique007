@@ -39,6 +39,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=guhenrique007&count_private=true&show_icons=true&include_all_commits=true)
 
