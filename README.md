@@ -1,4 +1,4 @@
-## Hi, I'm Gustavo Henrique, Computer Science Bachelor from [The Univesidade Rural do Rio de Janeiro](https://portal.ufrrj.br/), currently working as a fullstack developer. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I'm Gustavo Henrique, Computer Science Bachelor from [The Univesidade Rural do Rio de Janeiro](https://portal.ufrrj.br/), currently working as a fullstack developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lima007/)](https://www.linkedin.com/in/gustavo-lima007/)
 [![Instagram Badge](https://img.shields.io/badge/-gustavolima1377-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gustavolima1377)
