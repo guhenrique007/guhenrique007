@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-gustavolima1377-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/gustavolima1377)
 [![Gmail Badge](https://img.shields.io/badge/-gustavohsl1717@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohsl1717@gmail.com)](mailto:gustavohsl1717@gmail.com)
 
-## ⚡ Technologies
+## Technologies
 
 **Languages**
 
